@@ -2,6 +2,7 @@ Hola mundo
 
 Soy Jack Solano tengo 19 años de edad.
 Soy matematico, programador y escritor
-Pero SI tiene titulo universitario y maestria.
+Estudia matematicas en la Universidad, Aprende programacion en casa y Escribe por ahi.
+
 
 Adios mundo
