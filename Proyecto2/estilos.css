@@ -50,3 +50,8 @@ body
     padding: 1em;
 }
 
+#description{
+    text-align: center;
+    color: green;
+}
+
