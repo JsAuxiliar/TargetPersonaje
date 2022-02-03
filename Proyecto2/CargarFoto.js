@@ -1,6 +1,6 @@
 var table = document.getElementById("tablero").getContext("2d");
 
-var foto = {url: "JuliaMaggi.png"};
+var foto = {url: "imagenes/JuliaMaggi.png"};
 
 foto.imagen = new Image() ;
 foto.imagen.src = foto.url;
