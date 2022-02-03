@@ -71,3 +71,13 @@ body
     font-size: 10px
 }
 
+#footer{
+    background: green;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 0em;
+    margin: 0;
+    padding: 0.5em;
+}
